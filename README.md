@@ -1,13 +1,13 @@
 # Link Shortener
 
-## 1. **Install all requirements**
+## 1. Install all requirements
 
-## 2. **Run migrations**
+## 2. Run migrations
 
-## 3. **Seed the database**
+## 3. Seed the database
     php artisan db:seed --class=SuperUserSeeder
     
-## 4. **Run project with Sail**
+## 4. Run project with Sail
 
-## 5. **Documentation**
+## 5. Documentation
     Access the Swagger documentation for API endpoints at http://localhost/api/documentation
